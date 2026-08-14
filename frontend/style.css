@@ -31,3 +31,26 @@ h1{
     background-color: burlywood;
     cursor: pointer;
 }
+
+.navbar{
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px;
+    background-color: white;
+}
+
+.navbar a{
+    padding: 15px;
+    text-decoration: none;
+    color: grey;
+}
+
+.navbar a:hover{
+    color: black;
+    text-decoration: underline;
+}
+ 
+body{
+    background-color: lightblue;
+    margin: 0px;
+}
